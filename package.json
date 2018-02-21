@@ -1,0 +1,6 @@
+{
+  "name": "Chatty",
+  "version": "0.0.1",
+  "description": "dumb little socket thing",
+  "dependencies": {}
+}
